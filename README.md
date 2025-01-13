@@ -6,10 +6,11 @@ It is a fairly simple implementatin of a custom 16-bit ISA with support for some
 
 The instruction set can be found in *isa.txt*.
 
-[CPU Layout](images/cpu.png)
+[CPU Layout](https://github.com/hudsonkoyanagi/16BitCPU/blob/master/images/cpu.png)
 
-[ALU Design](images/alu.png)
+[ALU Design](https://github.com/hudsonkoyanagi/16BitCPU/blob/master/images/alu.png)
 
-[Control Unit Design](images/control_unit.png)
+[Control Unit Design](https://github.com/hudsonkoyanagi/16BitCPU/blob/master/images/control_unit.png)
 
-[Register Page](images/registers.png)
+[Register Page](https://github.com/hudsonkoyanagi/16BitCPU/blob/master/images/registers.png)
+
